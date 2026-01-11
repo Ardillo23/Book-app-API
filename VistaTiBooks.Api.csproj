@@ -16,4 +16,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\kevin\source\repos\VistaTiBooks.Api\Controllers\.editorconfig" />
+  </ItemGroup>
+
 </Project>

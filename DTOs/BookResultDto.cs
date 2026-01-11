@@ -7,5 +7,7 @@
         public string Authors { get; set; } = default!;
         public int? FirstPublishYear { get; set; }
         public string? CoverUrl { get; set; }
+        public string? Description { get; set; }
+
     }
 }
