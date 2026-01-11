@@ -1,0 +1,16 @@
+# Visual Studio / VSCode
+.vs/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
